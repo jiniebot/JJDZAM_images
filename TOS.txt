@@ -1,0 +1,22 @@
+Terms of Service
+
+Thank you for using Jinie's Bot Discord Bot! By using our bot, you agree to comply with and be bound by the following terms and conditions:
+
+Service Description: Jinie's Bot is a Discord bot designed to enhance gameplay on DayZ servers by providing features such as teleportation, shop creation, and other game-related functionalities through Discord.
+
+Admin Access: By adding Jinie's Bot to your Discord server, you grant the bot full administrative access, including control over all files on your server necessary for its operation. This access is required for the bot to function properly within the DayZ environment.
+
+Data and File Management: Users acknowledge and accept that due to the nature of the bot's access, file corruption and data loss are potential risks. Jinie's Bot is not liable for any such loss.
+
+Prohibited Actions: Users agree not to reverse engineer, decompile, disassemble, or attempt to derive the source code of Jinie's Bot or any part thereof, except as permitted by applicable law.
+
+Service Revocation: Jinie's Bot reserves the right to suspend or terminate services to any user at any time without notice or liability, for any reason, including but not limited to violation of these terms.
+
+Limitation of Liability: In no event shall Jinie's Bot, its developers, or affiliates be liable for any direct, indirect, incidental, special, or consequential damages arising out of the use or inability to use the bot, even if advised of the possibility of such damages.
+
+Modification of Terms: Jinie's Bot reserves the right to modify these terms of service at any time. Users are responsible for regularly reviewing these terms. Continued use of the bot after such changes constitutes acceptance of the modified terms.
+
+Governing Law: These terms shall be governed by and construed in accordance with the laws of [Your Country/State], without regard to its conflict of law provisions.
+
+By using Jinie's Bot, you signify your acceptance of these terms. If you do not agree to these terms, please refrain from using the bot.
+
