@@ -16,7 +16,7 @@ Limitation of Liability: In no event shall Jinie's Bot, its developers, or affil
 
 Modification of Terms: Jinie's Bot reserves the right to modify these terms of service at any time. Users are responsible for regularly reviewing these terms. Continued use of the bot after such changes constitutes acceptance of the modified terms.
 
-Governing Law: These terms shall be governed by and construed in accordance with the laws of [Your Country/State], without regard to its conflict of law provisions.
+Governing Law: These terms shall be governed by and construed in accordance with the laws of New York State in the United States, without regard to its conflict of law provisions.
 
 By using Jinie's Bot, you signify your acceptance of these terms. If you do not agree to these terms, please refrain from using the bot.
 
